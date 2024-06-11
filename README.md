@@ -1,1 +1,2 @@
-# Crop-reconditioned-system-
+
+Crop recommendation system using machine learning 
